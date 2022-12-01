@@ -1,1 +1,2 @@
-current user betty
+0 - current user betty
+1 - who am i
